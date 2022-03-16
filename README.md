@@ -1,5 +1,5 @@
 <img width="70%" src="https://raw.githubusercontent.com/BlackMesa123/BlackMesa123/main/shm.jpg">
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=BlackMesa123&show_icons=true&theme=dark">
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=BlackMesa123&show_icons=true&theme=dark&border_color=E50000&icon_color=FF0000">
 <a href="https://forum.xda-developers.com/m/blackmesa123.6911575/" target="_blank"><img alt="XDA" src="https://img.shields.io/badge/XDA-2DAAE9?style=for-the-badge&logo=XDA-Developers&logoColor=white"></a>
 <a href="https://t.me/salvo_giangri" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=Telegram&logoColor=white"></a>
 
